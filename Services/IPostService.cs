@@ -8,7 +8,11 @@ namespace Tweetbook.Services
 {
     public interface IPostService
     {
-        List<Post> GetPosts();
-        Post GetPostById(Guid postId);
+        Task<List<Post>> GetPostsAsync();
+        Task<Post> GetPostByIdAsync(Guid postId);
+        void UpdatePost(Post postToUpdate);
+        void CreatePostAsync(Post postToCreate);
+        void DeletePost(Post postToDelete);
+        Task<bool> SaveChangesAsync();
     }
 }
