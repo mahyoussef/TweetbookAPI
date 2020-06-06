@@ -87,5 +87,12 @@ D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.Azure.Docu
 D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
 D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
 D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Web Projects\Tweetbook\Tweetbook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Web Projects\Tweetbook\Tweetbook\obj\Debug\netcoreapp3.1\Tweetbook.MvcApplicationPartsAssemblyInfo.cs
 D:\Web Projects\Tweetbook\Tweetbook\obj\Debug\netcoreapp3.1\Tweetbook.MvcApplicationPartsAssemblyInfo.cache

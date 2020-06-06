@@ -23,7 +23,7 @@ namespace Tweetbook.Services
 
             _dataContext.Posts.Remove(post);
         }
-        public async void CreatePostAsync(Post post)
+        public async Task CreatePostAsync(Post post)
         {
             if(post == null)
                 throw new ArgumentNullException(nameof(post));

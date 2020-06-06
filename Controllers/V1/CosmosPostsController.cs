@@ -10,7 +10,8 @@ using Tweetbook.Domain;
 using Tweetbook.Services;
 
 namespace Tweetbook.Controllers.V1
-{
+{   
+    [Route("api/cosmos")]
     public class CosmosPostsController : Controller
     {
         private readonly ICosmosPostDbService _cosmosDbService;
